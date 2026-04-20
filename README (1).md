@@ -83,4 +83,4 @@ LoginApp/
 
 ## 👨‍💻 Author
 
-**Ishwar Singh Shekhawat**
+**Manan Bansal**
